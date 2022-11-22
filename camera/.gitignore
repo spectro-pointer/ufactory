@@ -15,6 +15,7 @@
 *.so
 *.dylib
 *.dll
+!libxarm.so
 
 # Fortran module files
 *.mod
